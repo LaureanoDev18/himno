@@ -18,9 +18,8 @@ public class Himno {
         System.out.println("sean eternos los laureles ");
         System.out.println("que supimos conseguir");
         System.out.println("coronados de gloria vivamos");
+            for (int i=1; i<3; i++) {
         System.out.println("o juremos con gloria a morir");
-        System.out.println("o juremos con gloria a morir");
-        System.out.println("o juremos con gloria a morir");
-        
+            }
     }
 }
